@@ -14,6 +14,7 @@ vi=vim $*
 
 
 cmder-start=cmder /REGISTER USER
+proxy=set http_proxy=http://127.0.0.1:7890
 
 readelf=llvm-readelf $*
 addr2line=llvm-addr2line $*
